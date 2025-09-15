@@ -1,7 +1,7 @@
 1. Clone the Repository: Open your terminal or command prompt and use the git clone command to download the Atom source code from its official GitHub repository.
 Code
 
-    git clone https://github.com/atom/atom
+    git clone https://github.com/Korayami/MaterialAtom
 2. Install Development Dependencies: Navigate into the cloned directory and install any necessary development tools. For Linux, you may need to install libsecret-1-dev. 
 Code
 
